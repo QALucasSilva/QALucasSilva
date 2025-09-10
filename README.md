@@ -3,7 +3,7 @@
 <h3 align="center">🔍 Analista de QA | Testes Manuais & Automatizados</h3>
 
 📍 São Paulo - Brasil  
-🔗 [GitHub](https://github.com/337lczz)  
+🔗 [GitHub](https://github.com/QALucasSilva)  
 
 ---
 
